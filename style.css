@@ -1,0 +1,12 @@
+ @import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+*{
+  font-family: 'Rubik Iso', sans-serif;
+}
+#css{
+  font-variant: small-caps;
+  font-weight: 200;
+  font-style: italic;
+}
+p{
+  font-size: 15px;
+}
